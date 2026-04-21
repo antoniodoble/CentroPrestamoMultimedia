@@ -30,4 +30,5 @@ bin/
 .DS_Store
 
 ### IDEA PROJECT ###
+# Ignora el .idea
 .idea/
