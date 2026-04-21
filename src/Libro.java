@@ -9,7 +9,7 @@ public abstract class Libro extends Documento {
         super(titulo, anio, estado);
     }
 
-    // Método de construcción según el diagrama
+    // Metodo de construcción
     public void constructLibro(int numPaginas, String autor, String idioma, String editorial, String resumen) {
         this.numPaginas = numPaginas;
         this.autor = autor;

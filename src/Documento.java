@@ -20,7 +20,7 @@ public abstract class Documento {
     public int getAnio() { return anio; }
     public EstadoDocumento getEstado() { return estado; }
 
-    // El diagrama dice que setReferencia es abstracto
+    // setReferencia es abstracto
     protected abstract void setReferencia(String referencia);
 
     public void setEstado(EstadoDocumento estado) {
