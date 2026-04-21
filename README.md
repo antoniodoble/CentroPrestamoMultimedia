@@ -1,9 +1,9 @@
 # Centro de Préstamo multimedia
 
 En este repositorio se ha creado una aplicación que simula un Centro de Préstamo Multimedia, se han hecho los siguientes ejercicios:
-• Diagramas de casos de uso 
-• Diagramas de actividades 
-• Diagramas de clases
+- Diagramas de casos de uso
+- Diagramas de actividades
+- Diagramas de clases
 
 Hemos realizado diferentes tareas que incluyen los diagramas antes mencionados, así como la implementación de clases Java. Todo ello contextualizado 
 en una aplicación de gestión de préstamos de un centro de préstamo universitario (libros y material multimedia) que utiliza kioscos de autoservicio.
