@@ -22,5 +22,5 @@ en una aplicación de gestión de préstamos de un centro de préstamo universit
 - Paola Fucheng - @paolafucheng
 
 ### Anotación
-En este ejercicio no hemos protegido la rama main ni hhhemos implementado los Test Driven Development, para que el flujo de trabajo fuera más rápido. De igual manera, 
+En este ejercicio no hemos protegido la rama main ni hemos implementado los Test Driven Development, para que el flujo de trabajo fuera más rápido. De igual manera, 
 estas características se trabajaron en el Ejercicio 1.
